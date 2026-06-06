@@ -1,0 +1,3 @@
+# MindCard - No external dependencies required
+# Pure Python standard library implementation
+# Python >= 3.8
